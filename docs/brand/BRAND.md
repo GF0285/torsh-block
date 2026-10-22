@@ -20,7 +20,8 @@ Background = vertical NavyDeep → Navy → NavyMid, a soft Blue glow at the top
 at the bottom-right corner (16 %).
 
 ## Type
-- Arabic: **Cairo** (Bold 700 headlines, Medium 500 sublines). RTL shaping via HarfBuzz/raqm.
+- Arabic: **Cairo** (Bold 700 headlines, Medium 500 sublines), static instances in `tools/brand/fonts/` (OFL). RTL shaping via HarfBuzz/raqm, every Arabic line starts with an RLM.
+- Never put a stand-alone «و» next to a Latin word in images (Cairo's isolated waw reads like a Latin "g"): use «·», «وأجهزة …», «وفي …». In READMEs wrap Latin terms in Arabic text with `<span dir="ltr">`.
 - Latin: **Inter** (Bold headlines, Medium sublines, SemiBold labels).
 - Captions: headline, then a red accent bar (≈1.6 × headline size wide, rounded), then a muted subline. Centred.
   Headlines ≤ 6 words, sublines ≤ 12 words. Arabic set and English set carry the same message.
