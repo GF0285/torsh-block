@@ -12,21 +12,21 @@
 
 <p align="center"><a href="#العربية">العربية</a> · <a href="#english">English</a></p>
 
-<div dir="rtl">
+<div dir="rtl" align="right">
 
 ## العربية
 
-**Torsh Block** حاجب إعلانات مجاني 100% لهواتف أندرويد وأجهزة Android TV و Fire TV. يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر VPN محلي على جهازك، **بدون روت**، وبدون حساب، وبدون أي اشتراك.
+**<span dir="ltr">Torsh Block</span>** حاجب إعلانات مجاني 100% لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>). يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر شبكة <span dir="ltr">VPN</span> محلية على جهازك، **بدون روت**، وبدون حساب، وبدون أي اشتراك.
 
 <p align="center"><img src="docs/TorshBlock-demo.gif" alt="عرض سريع لتطبيق Torsh Block" width="640"></p>
-<p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">شاهد الفيديو بجودة 1080p</a></p>
+<p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">شاهد الفيديو بجودة <span dir="ltr">1080p</span></a></p>
 
 ### المميزات
 - 🛡️ حجب الإعلانات والمتتبّعات في كل التطبيقات بضغطة واحدة.
 - 📊 إحصائيات واضحة: المحجوب اليوم، وآخر 24 ساعة، وآخر 7 أيام.
-- 🌐 تجاوز حجب مزوّد الإنترنت: DNS مشفّر (DoH / DoT) ووضع تجاوز DPI.
-- 🗣️ بلغتك: العربية، والدارجة المغربية، و English، و Español، مع واجهة من اليمين لليسار.
-- 📺 يعمل على Android TV و Fire TV بالتحكم عن بُعد بالكامل.
+- 🌐 تجاوز حجب مزوّد الإنترنت: <span dir="ltr">DNS</span> مشفّر (<span dir="ltr">DoH / DoT</span>) ووضع تجاوز <span dir="ltr">DPI</span>.
+- 🗣️ بلغتك: العربية، والدارجة المغربية، والإنجليزية، والإسبانية، مع واجهة من اليمين إلى اليسار.
+- 📺 يعمل على أجهزة <span dir="ltr">Android TV</span> وأجهزة <span dir="ltr">Fire TV</span>، بالتحكم عن بُعد بالكامل.
 - 🔄 تحديثات آمنة من داخل التطبيق: يتحقق من التوقيع والشهادة قبل التثبيت.
 - 💯 مجاني 100%، بدون إعلانات ولا اشتراكات.
 
@@ -36,21 +36,21 @@
 | <img src="docs/screenshots/01_home_ar.png" width="260"> | <img src="docs/screenshots/02_activity_ar.png" width="260"> | <img src="docs/screenshots/03_bypass_ar.png" width="260"> |
 | <img src="docs/screenshots/04_language_ar.png" width="260"> | <img src="docs/screenshots/06_update_ar.png" width="260"> | <img src="docs/screenshots/07_donate_ar.png" width="260"> |
 
-<p align="center"><img src="docs/screenshots/05_tv_ar.png" width="80%" alt="Torsh Block على Android TV"></p>
+<p align="center"><img src="docs/screenshots/05_tv_ar.png" width="80%" alt="Torsh Block على التلفاز"></p>
 
 ### التثبيت على الهاتف
 1. افتح [صفحة آخر إصدار](https://github.com/GF0285/torsh-block/releases/latest) من هاتفك.
-2. نزّل ملف **TorshBlock-…-arm64-v8a.apk** (أغلب الهواتف الحديثة). إن لم تكن متأكدًا فنزّل **universal**.
-3. افتح الملف واسمح بـ «تثبيت تطبيقات غير معروفة» للمتصفح عند الطلب، ثم اضغط «تثبيت».
-4. افتح Torsh Block واضغط زر التشغيل، ثم وافق على طلب الـ VPN.
+2. نزّل ملف <span dir="ltr">arm64-v8a</span> (يناسب أغلب الهواتف الحديثة). إن لم تكن متأكدًا فنزّل ملف <span dir="ltr">universal</span>.
+3. افتح الملف، واسمح بـ«تثبيت تطبيقات غير معروفة» للمتصفح عند الطلب، ثم اضغط «تثبيت».
+4. افتح التطبيق واضغط زر التشغيل، ثم وافق على طلب الاتصال.
 
-### التثبيت على Fire TV (عبر Downloader)
-1. ثبّت تطبيق **Downloader** من متجر Amazon.
-2. الإعدادات ← My Fire TV ← خيارات المطور ← تثبيت تطبيقات غير معروفة ← Downloader ← تشغيل.
-   (إن لم تظهر «خيارات المطور»: الإعدادات ← My Fire TV ← About، واضغط على اسم الجهاز 7 مرات.)
-3. افتح Downloader واكتب الرابط التالي ثم اضغط Go:
+### التثبيت على <span dir="ltr">Fire TV</span> عبر تطبيق <span dir="ltr">Downloader</span>
+1. ثبّت تطبيق <span dir="ltr">Downloader</span> من متجر أمازون.
+2. افتح الإعدادات، ثم <span dir="ltr">My Fire TV</span>، ثم خيارات المطوّر، ثم «تثبيت تطبيقات غير معروفة»، وفعّل الخيار لتطبيق <span dir="ltr">Downloader</span>.
+   إن لم تظهر خيارات المطوّر: افتح <span dir="ltr">My Fire TV</span> ثم <span dir="ltr">About</span>، واضغط على اسم الجهاز 7 مرات.
+3. افتح <span dir="ltr">Downloader</span> واكتب الرابط التالي، ثم اضغط <span dir="ltr">Go</span>:
 
-<div dir="ltr">
+<div dir="ltr" align="left">
 
 ```
 https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-armeabi-v7a.apk
@@ -58,17 +58,17 @@ https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-
 
 </div>
 
-4. اختر «تثبيت»، ثم افتح Torsh Block وفعّل الحماية بجهاز التحكم.
+4. اختر «تثبيت»، ثم افتح التطبيق وفعّل الحماية بجهاز التحكم.
 
-على Android TV (Google TV وغيرها) استعمل الطريقة نفسها مع ملف **universal**.
+على أجهزة <span dir="ltr">Android TV</span> الأخرى استعمل الطريقة نفسها مع ملف <span dir="ltr">universal</span>.
 
 ### التحقق من الملفات
-كل إصدار يحتوي على `SHA256SUMS.txt`. التطبيق نفسه يرفض أي تحديث غير موقّع بمفتاح Torsh Block الرسمي.
+كل إصدار يحتوي على ملف <span dir="ltr">SHA256SUMS.txt</span>. والتطبيق نفسه يرفض أي تحديث غير موقّع بالمفتاح الرسمي.
 
 ### ادعم المطوّر
-التطبيق مجاني 100% وسيبقى كذلك. إن أعجبك وأردت دعم التطوير، يمكنك التبرع بـ **GRAM على شبكة TON** إلى المحفظة:
+التطبيق مجاني 100% وسيبقى كذلك. إن أعجبك وأردت دعم التطوير، يمكنك التبرع بعملة <span dir="ltr">GRAM</span> على شبكة <span dir="ltr">TON</span> إلى المحفظة:
 
-<div dir="ltr">
+<div dir="ltr" align="left">
 
 ```
 UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
@@ -76,12 +76,12 @@ UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 
 </div>
 
-أرسل GRAM فقط وعلى شبكة TON فقط، فالعملات الأخرى أو الشبكات الأخرى قد تضيع.
+أرسل عملة <span dir="ltr">GRAM</span> فقط وعلى شبكة <span dir="ltr">TON</span> فقط، فالعملات أو الشبكات الأخرى قد تضيع.
 
 ### الترخيص
-Torsh Block برنامج مملوك (proprietary)، وكل الحقوق محفوظة لـ GF0285. يُسمح بتنزيله واستعماله مجانًا، ويُمنع نسخه أو تعديله أو إعادة توزيعه دون إذن كتابي. انظر [LICENSE](LICENSE). المكوّنات مفتوحة المصدر المضمَّنة تبقى تحت تراخيصها، والقائمة الكاملة داخل التطبيق: الرئيسية ← حول التطبيق ← تراخيص الطرف الثالث.
+هذا التطبيق برنامج مملوك، وكل الحقوق محفوظة لـ<span dir="ltr">GF0285</span>. يُسمح بتنزيله واستعماله مجانًا، ويُمنع نسخه أو تعديله أو إعادة توزيعه دون إذن كتابي، انظر ملف [<span dir="ltr">LICENSE</span>](LICENSE). المكوّنات مفتوحة المصدر المضمَّنة تبقى تحت تراخيصها، والقائمة الكاملة داخل التطبيق: الرئيسية ← حول التطبيق ← تراخيص الطرف الثالث.
 
-<p align="center">صُنع بـ ♥️ من طرف GF0285 عضو كل من GeeksFamily و DWM</p>
+<p align="center" dir="rtl">صُنع بـ ♥️ من طرف <span dir="ltr">GF0285</span> عضو كل من <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span></p>
 
 </div>
 
