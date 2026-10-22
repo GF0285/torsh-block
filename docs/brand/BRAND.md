@@ -44,7 +44,8 @@ Real app renders (Robolectric screenshot suite of the final build, demo data onl
 
 ## Copy
 - Name: Torsh Block (never "TorshBlock" in prose; file names may use it).
-- Tagline AR: «إعلانات أقل، راحة أكثر» — EN: "Fewer ads. More calm." Positioning: «حاجب إعلانات مجاني، بلا روت» / "The free ad blocker, no root".
-- Demo data in renders: realistic loaded rule count, never "0 rules".
+- Tagline AR: «إعلانات أقل، راحة أكثر» — EN: "Fewer ads. More calm." Positioning: «حاجب إعلانات مجاني 100%، بلا روت» / "The 100% free ad blocker, no root".
+  Full approved copy: `torsh-block-dist/0.5.0/marketing/font_samples/COPY.md`.
+- Demo data in renders: realistic loaded rule count (94318 rules, `ScreenshotTest.DEMO_RULES`), never "0 rules".
 - Platforms: Android · Android TV · Fire TV.
 - Credits: «صُنع بـ ♥️ من طرف GF0285 عضو كل من GeeksFamily و DWM» / "Made with ♥️ by GF0285, member of GeeksFamily and DWM".

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/hero_banner.png" alt="Torsh Block — حاجب إعلانات مجاني، بلا روت · The free ad blocker, no root" width="100%">
+  <img src="docs/hero_banner.png" alt="Torsh Block — حاجب إعلانات مجاني 100%، بلا روت · The 100% free ad blocker, no root" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## العربية
 
-**إعلانات أقل، راحة أكثر.** <span dir="ltr">Torsh Block</span> حاجب إعلانات مجاني لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، **بدون روت** ولا حساب. يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر شبكة <span dir="ltr">VPN</span> محلية على جهازك، دون أي اشتراك.
+**إعلانات أقل، راحة أكثر.** <span dir="ltr">Torsh Block</span> حاجب إعلانات مجاني 100% لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، **بدون روت** ولا حساب. يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر شبكة <span dir="ltr">VPN</span> محلية على جهازك، دون أي اشتراك.
 
 <p align="center"><img src="docs/TorshBlock-demo.gif" alt="عرض سريع لتطبيق Torsh Block" width="640"></p>
 <p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">شاهد الفيديو بجودة <span dir="ltr">1080p</span></a></p>
@@ -28,7 +28,7 @@
 - 🗣️ **بلغتك:** العربية، والدارجة المغربية، والإنجليزية، والإسبانية، مع واجهة من اليمين إلى اليسار.
 - 📺 **على شاشتك الكبيرة:** يعمل على أجهزة <span dir="ltr">Android TV</span> وأجهزة <span dir="ltr">Fire TV</span>، بالتحكم عن بُعد بالكامل.
 - 🔄 **تحديثات موقّعة:** من داخل التطبيق، يتحقق من التوقيع والشهادة قبل التثبيت.
-- 💯 **مجاني بالكامل:** بدون إعلانات ولا حساب ولا اشتراك.
+- 💯 **مجاني 100%:** بدون إعلانات ولا حساب ولا اشتراك.
 
 ### لقطات من التطبيق
 | | | |
@@ -66,7 +66,7 @@ https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-
 كل إصدار يحتوي على ملف <span dir="ltr">SHA256SUMS.txt</span>. والتطبيق نفسه يرفض أي تحديث غير موقّع بالمفتاح الرسمي.
 
 ### ادعم المشروع
-التطبيق مجاني وسيبقى كذلك. إن أعجبك وأردت دعم التطوير، يمكنك التبرع بعملة <span dir="ltr">GRAM</span> على شبكة <span dir="ltr">TON</span> إلى المحفظة:
+التطبيق مجاني 100% وسيبقى كذلك. إن أعجبك وأردت دعم التطوير، يمكنك التبرع بعملة <span dir="ltr">GRAM</span> على شبكة <span dir="ltr">TON</span> إلى المحفظة:
 
 <div dir="ltr" align="left">
 
@@ -89,7 +89,7 @@ UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 
 ## English
 
-**Fewer ads. More calm.** Torsh Block is a free ad blocker for Android phones, Android TV and Fire TV. **No root**, no account. It blocks ads and trackers in every app and browser through a local on-device VPN, with no subscription.
+**Fewer ads. More calm.** Torsh Block is a 100% free ad blocker for Android phones, Android TV and Fire TV. **No root**, no account. It blocks ads and trackers in every app and browser through a local on-device VPN, with no subscription.
 
 <p align="center"><img src="docs/TorshBlock-demo.gif" alt="Torsh Block demo" width="640"></p>
 <p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">Watch the 1080p video</a></p>
@@ -101,7 +101,7 @@ UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 - 🗣️ **Speaks your language:** Arabic, Moroccan Darija, English and Español, with a full right-to-left UI.
 - 📺 **Made for the big screen:** works on Android TV and Fire TV, fully usable with the remote.
 - 🔄 **Signed updates:** in-app updates, with signature and certificate checked before install.
-- 💯 **Free. No strings.** No ads, no account, no subscription.
+- 💯 **100% free.** No ads, no account, no subscription.
 
 ### A look inside
 | | | |
@@ -135,7 +135,7 @@ On Android TV (Google TV and others) use the same steps with the **universal** A
 Every release ships `SHA256SUMS.txt`. The app itself refuses any update that is not signed with the official Torsh Block key.
 
 ### Support the project
-Torsh Block is free and will stay free. If you like it and want to support development, you can donate **GRAM on the TON network** to:
+Torsh Block is 100% free and will stay free. If you like it and want to support development, you can donate **GRAM on the TON network** to:
 
 ```
 UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
