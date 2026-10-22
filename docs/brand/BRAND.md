@@ -20,8 +20,14 @@ Background = vertical NavyDeep → Navy → NavyMid, a soft Blue glow at the top
 at the bottom-right corner (16 %).
 
 ## Type
-- Arabic: **Cairo** (Bold 700 headlines, Medium 500 sublines), static instances in `tools/brand/fonts/` (OFL). RTL shaping via HarfBuzz/raqm, every Arabic line starts with an RLM.
-- Never put a stand-alone «و» next to a Latin word in images (Cairo's isolated waw reads like a Latin "g"): use «·», «وأجهزة …», «وفي …». In READMEs wrap Latin terms in Arabic text with `<span dir="ltr">`.
+- Arabic headlines: **Lalezar** (display, ≈1.6 × the Latin headline size, it runs small). Arabic sublines and body: **Tajawal**
+  (Bold sublines, Medium/Regular body). Full fonts + OFL in `tools/brand/fonts/`. RTL shaping via HarfBuzz/raqm, every
+  Arabic line starts with an RLM.
+- App UI (ar, ary): **Tajawal** subset in `app/src/main/res/font/` (Normal→Regular, Medium→Medium, SemiBold→Bold,
+  Bold→ExtraBold; Tajawal has no SemiBold), Arabic line height 1.65 em. Latin and digits use the system/Inter fallback.
+- Headline treatment (`display_text`): silver metal vertical gradient, soft blue glow, small drop shadow. Accent bar = red → blue gradient.
+- A stand-alone «و» between Latin words (credits) is wrapped in RLMs (`\u200fو\u200f`) so it stays on the Arabic side.
+  In READMEs wrap Latin terms in Arabic text with `<span dir="ltr">` (GitHub strips `<bdi>`/`<bdo>`).
 - Latin: **Inter** (Bold headlines, Medium sublines, SemiBold labels).
 - Captions: headline, then a red accent bar (≈1.6 × headline size wide, rounded), then a muted subline. Centred.
   Headlines ≤ 6 words, sublines ≤ 12 words. Arabic set and English set carry the same message.
@@ -33,11 +39,12 @@ recoloured, cropped or stretched; minimum 64 px; clear space ≥ 10 % of its siz
 backgrounds only.
 
 ## Devices
-Real app renders (final build) or real-device Firebase Test Lab recordings only. Generic phone frame
+Real app renders (Robolectric screenshot suite of the final build, demo data only). The video is built from these stills. Generic phone frame
 (dark bezel, `#4A6680` rim, punch-hole) and generic TV frame; no third-party device trademarks.
 
 ## Copy
 - Name: Torsh Block (never "TorshBlock" in prose; file names may use it).
-- Tagline AR: «حاجب إعلانات مجاني 100%» — EN: "100% free ad blocker".
+- Tagline AR: «إعلانات أقل، راحة أكثر» — EN: "Fewer ads. More calm." Positioning: «حاجب إعلانات مجاني، بلا روت» / "The free ad blocker, no root".
+- Demo data in renders: realistic loaded rule count, never "0 rules".
 - Platforms: Android · Android TV · Fire TV.
 - Credits: «صُنع بـ ♥️ من طرف GF0285 عضو كل من GeeksFamily و DWM» / "Made with ♥️ by GF0285, member of GeeksFamily and DWM".
