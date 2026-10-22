@@ -16,7 +16,7 @@
 
 ## العربية
 
-**إعلانات أقل، راحة أكثر.** <span dir="ltr">Torsh Block</span> حاجب إعلانات مجاني لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، بدون روت ولا حساب. يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر شبكة <span dir="ltr">VPN</span> محلية على جهازك، **بدون روت**، وبدون حساب، وبدون أي اشتراك.
+**إعلانات أقل، راحة أكثر.** <span dir="ltr">Torsh Block</span> حاجب إعلانات مجاني لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، **بدون روت** ولا حساب. يحجب الإعلانات والمتتبّعات في كل التطبيقات والمتصفحات عبر شبكة <span dir="ltr">VPN</span> محلية على جهازك، دون أي اشتراك.
 
 <p align="center"><img src="docs/TorshBlock-demo.gif" alt="عرض سريع لتطبيق Torsh Block" width="640"></p>
 <p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">شاهد الفيديو بجودة <span dir="ltr">1080p</span></a></p>
@@ -89,7 +89,7 @@ UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 
 ## English
 
-**Fewer ads. More calm.** Torsh Block is a free ad blocker for Android phones, Android TV and Fire TV. No root, no account. It blocks ads and trackers in every app and browser through a local on-device VPN: **no root**, no account, no subscription.
+**Fewer ads. More calm.** Torsh Block is a free ad blocker for Android phones, Android TV and Fire TV. **No root**, no account. It blocks ads and trackers in every app and browser through a local on-device VPN, with no subscription.
 
 <p align="center"><img src="docs/TorshBlock-demo.gif" alt="Torsh Block demo" width="640"></p>
 <p align="center">🎬 <a href="https://github.com/GF0285/torsh-block/releases/download/v0.5.0/TorshBlock-0.5.0-demo.mp4">Watch the 1080p video</a></p>
