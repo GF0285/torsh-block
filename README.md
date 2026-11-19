@@ -2,7 +2,7 @@
 <p align="center"><img src="docs/hero_banner.png" alt="Torsh Block — حاجب إعلانات مجاني 100% · The 100% free ad blocker for Android phones, Android TV &amp; Fire TV. No root." width="100%"></p>
 
 <p align="center">
-  <a href="https://github.com/GF0285/torsh-block/releases/latest"><img alt="v0.5.0" src="https://img.shields.io/badge/version-v0.5.0-2F80ED?style=for-the-badge&labelColor=06101F"></a>
+  <a href="https://github.com/GF0285/torsh-block/releases/latest"><img alt="v0.6.0" src="https://img.shields.io/badge/version-v0.6.0-2F80ED?style=for-the-badge&labelColor=06101F"></a>
   <a href="https://torsh.torshblock.workers.dev"><img alt="Android 5.0+" src="https://img.shields.io/badge/Android-5.0%2B-2F80ED?style=for-the-badge&logo=android&logoColor=white&labelColor=06101F"></a>
   <a href="https://torsh.torshblock.workers.dev"><img alt="Android TV · Fire TV" src="https://img.shields.io/badge/Android%20TV%20%C2%B7%20Fire%20TV-122A4A?style=for-the-badge"></a>
   <a href="https://torsh.torshblock.workers.dev"><img alt="100% free" src="https://img.shields.io/badge/100%25-free-E53935?style=for-the-badge&labelColor=06101F"></a>
